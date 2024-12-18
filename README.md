@@ -18,7 +18,6 @@
 - `ondragstart` : Triggered when dragging starts.
 - `ondragend` : Triggered when dragging ends.
 - `ondragover` : Triggered when a dragged element moves over a valid drop target.
-- `ondrop` : Triggered when a dragged element is dropped on a valid target.
 
 ## **Mouse Wheel Events**
 - `onwheel` : Triggered when the mouse wheel is used.
