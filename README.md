@@ -13,19 +13,6 @@
 - `onmouseout` : Triggered when the mouse moves out of the element or its children.
 - `oncontextmenu` : Triggered when the right mouse button is clicked (context menu opens).
 
-## **Keyboard Events**
-- `onkeydown` : Triggered when a key is pressed down.
-- `onkeyup` : Triggered when a key is released.
-
-## **General Form and Input Events**
-- `onfocus` : Triggered when an element gains focus.
-- `onblur` : Triggered when an element loses focus.
-- `onchange` : Triggered when the value of an input changes and is committed.
-- `oninput` : Triggered when the value of an input changes.
-
-## **Resize and Layout Events**
-- `onresize` : Triggered when the size of an element or window changes.
-
 ## **Drag & Drop Events**
 - `ondrag` : Triggered when an element is being dragged.
 - `ondragstart` : Triggered when dragging starts.
