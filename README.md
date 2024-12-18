@@ -23,11 +23,6 @@
 - `onchange` : Triggered when the value of an input changes and is committed.
 - `oninput` : Triggered when the value of an input changes.
 
-## **Loading and Display Events**
-- `onload` : Triggered when an element or its content is fully loaded.
-- `onerror` : Triggered when an error occurs during the loading of an element.
-- `onscroll` : Triggered when an element is scrolled.
-
 ## **Resize and Layout Events**
 - `onresize` : Triggered when the size of an element or window changes.
 
